@@ -15,7 +15,7 @@ namespace TestGit
         public Form1()
         {
             InitializeComponent();
-            //Test av github
+            //Test av githubben
         }
     }
 }
